@@ -14,7 +14,7 @@ int main(){
             maxSc = pForSc;
         scCo[pForSc] += sco;
     }
-    for(i = 0; i < NOS; i++){
+    for(i = 0; i <= maxSc; i++){
         if(scCo[i] > maxSco){
             pForSc = i;
             maxSco = scCo[i];
