@@ -1,3 +1,4 @@
+/* 部分借鉴了 柳婼 在 https://www.liuchuo.net/archives/573 贴出的算法 */
 #include <stdio.h>
 #define SIZE 100000
 
